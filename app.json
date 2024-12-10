@@ -23,7 +23,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "rQ4hSKzB#oQbdopUyqCgKFBM_pp-Y5M7hKXoxGESlMJ8rvSpxSsQ",
       "required": true,
       "value": ""
     },
@@ -33,9 +33,9 @@
       "value": "public"
     },
     "PREFIX": {
-      "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "description": ".",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
