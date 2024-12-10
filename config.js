@@ -14,14 +14,14 @@ const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || 'your number';
 
 const ownerlist = ownervb.split(';');
 
-global.owner = [];
+global.owner = [Ongeri 💜💜];
 for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
 global.botname = process.env.BOTNAME || 'SANA_MD-V1';
-global.pairingNumber = process.env.BOT_NUMBER || 'your number';  // put your number here
-global.SESSION_ID = process.env.SESSION_ID || 'session id';  // put your session id here
+global.pairingNumber = process.env.BOT_NUMBER || '254713145618';  // put your number here
+global.SESSION_ID = process.env.SESSION_ID || 'rQ4hSKzB#oQbdopUyqCgKFBM_pp-Y5M7hKXoxGESlMJ8rvSpxSsQ';  // put your session id here
 
 global.mods = []
 global.prems = []
